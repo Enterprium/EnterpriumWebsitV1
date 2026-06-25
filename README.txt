@@ -14,3 +14,11 @@ Updates included:
 - Supplied building and office images used locally.
 - Six AI-generated fictional leadership portraits placed in the leadership placeholders.
 - Leadership names and portraits remain placeholder/demo content until you replace them with approved real details.
+
+
+Update notes:
+- Added services.html and industries.html.
+- Header order updated: Home, About, Services, Industries, Leadership, Contact.
+- Footer order updated: Company, Services, Industries.
+- Paragraph copy is justified through the website.
+- Removed em dash characters from website files.
