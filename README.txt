@@ -22,3 +22,5 @@ Updates completed:
 - Services and Industries pages are included.
 - Website text is justified.
 - No em dash characters are used in HTML or README text.
+
+Update: Removed the Team Space gallery tile, collapsed the empty layout space, and restored the main office building image with the provided 995 Market Street image.
